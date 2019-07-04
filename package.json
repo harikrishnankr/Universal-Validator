@@ -1,0 +1,23 @@
+{
+  "name": "universal-validator",
+  "version": "0.0.1-beta",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harikrishnankr/Universal-Validator.git"
+  },
+  "keywords": [
+    "Universal",
+    "Validator"
+  ],
+  "author": "harisemail94@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harikrishnankr/Universal-Validator/issues"
+  },
+  "homepage": "https://github.com/harikrishnankr/Universal-Validator#readme"
+}
